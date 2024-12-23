@@ -1,0 +1,19 @@
+[
+    {
+
+    "name": "HydraVault",
+    "price": 3000.00,
+    "description":"Hydra Vault is a complete Hydra culture kit, including live Hydras, brine shrimp eggs, salt crystals, spring water, culture dishes, and step-by-step instructions for hatching shrimp eggs and maintaining Hydras for at least 5 days.",
+    "ratings": 4.5,
+    "images" :[
+        {
+              "image": "c:/Users/Admin/OneDrive/Desktop/HydraKit.jpg"
+    }
+],
+    "category": "CulturingKit",
+    "seller" : "Hydragen",
+    "stock" : 10,
+    "numOfReviews" : 15,
+    "reviews" : []
+    }
+] 
